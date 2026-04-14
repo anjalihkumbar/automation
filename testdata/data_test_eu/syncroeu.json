@@ -1,0 +1,8 @@
+{
+    "Login-Access-001": {
+      "url": "https://qa-syncro-eu.tatsh.cloud/Account/Login",
+        "brokerUserNameInput": "vTestBroker",
+        "brokerPasswordInput": "Coverage@28"
+
+    }
+}

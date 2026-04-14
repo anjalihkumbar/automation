@@ -1,0 +1,177 @@
+{
+"student-001":{
+
+    "url" : "https://qa-syncrob2c-eu.tatsh.cloud/online-application?KEY=MtywX6ask6X7STU8otfGPg%3D%3D&BRK=MAW&PT=STU&LANG=en",
+    "url2" : "https://qa-syncrob2c-eu.tatsh.cloud/quote-and-buy-draft/?KEY=MtywX6ask6X7STU8otfGPg%3D%3D&BRK=MAW&PT=STU&LANG=en",
+    "url1": "https://qa-syncrob2c-eu.tatsh.cloud/quote-and-buy?KEY=MtywX6ask6X7STU8otfGPg==&BRK=MAW&LANG=en&PT=STU&isPrivate=1",
+    "expectedPageTitle" : "Online application Student - MAWISTA",
+    "applicationText" : " Application for MAWISTA Student ",
+    "policyholderText" : "Policyholder's details",
+    "policyholderaddressText" : " Policyholder's address in Germany ",
+    "areyouinsuredpersonText" : " Are you the insured person? ",
+    "enterdateofbirthText" :" Enter your date of birth and gender ",
+    "studydetailsText" : " Study details ",
+    "coursedetailsText":"Enter the details of the institution, study type and course duration",
+    "medicalinformationText" : " Medical information ",
+    "medicalinformationoneText": "Within the last 36 months period, have you been treated or have you sought/received medical advice for a chronic ongoing medical condition or received repeat medical treatment, or are you taking prescribed drugs on a regular basis (except contraceptive pills etc.) ?",
+    "medicalinformationtwoText" : "Are you awaiting results of tests/investigations or have any medical treatment planned, advised or is pending (including but not limited to hospital admission or surgery)?",
+    "additionalinformationoneText" : " Additional Information ",
+    "additionalinformationtwoText" : "Does the insured person have a limited residence permit in Germany",
+    "expectedMissingInformationText" : " Invalid or missing information, please check your information and try again "
+},
+"student-002" :{
+      "firstname" : "Student",
+      "lastname" : "test",
+       "passport" : "123pc",
+       "mobilenumbercode" : "+91",
+       "mobilenumberInput" :"9891234980",
+       "email" : "s.santosh.lohokare@accenture.com",
+       "streetname" : "German Street",
+       "streetnumber" : "819",
+       "postalcode" : "45123",
+       "city" : "Belgium",
+       "day" : "01",
+       "month" : "01",
+       "year" : "1996",
+       "nameofinstitute" : "AIIMS",
+       "startofstudy" : "01/11/2025",
+       "endofstudy" : "31/01/2026",
+       "additionalinsuredpersonText" : " Additional insured person ",
+       "additionalInsuredPersonInformationText" : "Additional insured person information"
+
+
+},
+
+"student-003" :{
+      "firstname" : " ",
+      "lastname" : " ",
+       "passport" : " ",
+       "mobilenumbercode" : "+91",
+       "mobilenumberInput" :" ",
+       "email" : " ",
+       "streetname" : " ",
+       "streetnumber" : " ",
+       "postalcode" : " ",
+       "city" : " ",
+       "day" : " ",
+       "month" : " ",
+       "year" : " ",
+       "nameofinstitute" : " ",
+       "startofstudy" : " ",
+       "endofstudy" : " "
+       
+},
+
+
+"student-004" :{
+    "additionalInsuredFirstName" : "Student QA Test",
+    "additionalInsuredLastName" : "Rao",
+     "additionalInsuredPassport" : "123",
+     "additionalInsuredEmail" : "abc@gmail.com",
+     "additionalInsuredDayOfBirth" : "04",
+     "additionalInsuredMonthOfBirth" : "05",
+     "additionalInsuredYearOfBirth" : "2001",
+     "thirdTabPlanDetailsText" : " Plan details "
+
+
+},
+
+"student-005" :{
+    "additionalInsuredFirstName" : "Student QA Test",
+    "additionalInsuredLastName" : "Rao",
+     "additionalInsuredPassport" : "123@#Test$",
+     "additionalInsuredDayOfBirth" : "45",
+     "additionalInsuredMonthOfBirth" : "55",
+     "additionalInsuredYearOfBirth" : "0540",
+     "DOBErrorText" : " Invalid date ",
+     "passportErrorText" : " Field format is invalid "
+
+
+},
+
+"student-006" :{
+       "day" : "12",
+       "month" : "08",
+       "year" : "2022",
+       "startDateThirdTab" : "01/04/2025",
+       "endDateThirdTab" : "01/12/2025",
+       "classicPlanPremium" : "55",
+       "classicPlusPremium" : "75",
+       "comfortPlanPremium" : "135"
+
+},
+
+"student-007" :{
+       "day" : "01",
+       "month" : "11",
+       "year" : "2019",
+       "startDateThirdTab" : "01/10/2024",
+       "endDateThirdTab" : "01/10/2025",
+       "classicPlanPremium" : "40.23",
+       "classicPlusPremium" : "51",
+       "comfortPlanPremium" : "92.54"
+
+},
+
+"student-008" :{
+       "day" : "17",
+       "month" : "11",
+       "year" : "2004",
+       "startDateThirdTab" : " 01/01/2026",
+       "endDateThirdTab" : " 31/12/2027",
+       "classicPlanPremium" : "28",
+       "classicPlusPremium" : "36",
+       "comfortPlanPremium" : "74",
+       "thirdTabPlanDetailsText" : " Plan details ",
+       "periodOfInsuranceText" : " Period of insurance",
+       "YourPreferredPlanText" : " Choose your preferred plan ",
+       "paymentSummaryText" : " Payment summary "
+
+},
+
+
+"student-009" :{
+       "day" : "01",
+       "month" : "11",
+       "year" : "1994",
+       "startDateThirdTab" : "01/10/2024",
+       "endDateThirdTab" : "01/10/2025",
+       "classicPlanPremium" : "42.77",
+       "classicPlusPremium" : "54.46",
+       "comfortPlanPremium" : "101.69",
+       "expectedPaymentSummaryNameText" : "Student QA Test",
+       "expectedTotalMonthlyPremium" : "€42.77"
+
+},
+
+"student-010" :{
+       "day" : "08",
+       "month" : "11",
+       "year" : "1987",
+       "startDateThirdTab" : "01/12/2025",
+       "endDateThirdTab" : "31/12/2025",
+       "classicPlanPremium" : "44",
+       "classicPlusPremium" : "56",
+       "comfortPlanPremium" : "104",
+       "expectedPaymentSummaryNameText" : "Student QA Test",
+       "expectedTotalMonthlyPremium" : "€44",
+       "periodOfInsuranceText" : " Period of insurance ",
+       "chooseYourPreferredPlanText" : " Choose your preferred plan ",
+       "paymentSummaryText" : " Payment summary ",
+       "expectedThirdTabStartDateValue" : "01/11/2024",
+       "expectedThirdTabEndDateValue" : "31/12/2024"
+
+},
+
+"student-011" :{
+       
+       "expectedFourthTabPaymentMethodText": " Payment method and checkout ",
+       "ibannumber": "GB33BUKB20201555555555",
+       "thankyouText": "Thank you"
+
+
+
+}
+
+
+}

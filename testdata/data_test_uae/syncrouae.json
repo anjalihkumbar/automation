@@ -1,0 +1,175 @@
+{
+    "Login-Access-001": {
+        "url": "https://test-syncro-uae.tatsh.cloud/Account/Login",
+        "userNameInput": "VManoukian",
+        "passwordInput": "123",
+        "brokerUserNameInput": "DBroker",
+        "brokerPasswordInput": "Irisnew@7"
+
+    },
+    
+    "PolicyHolderBasicDetails-002": {
+        "payerDropdownSearchField": "SYNCRO TEST",
+        "distributorDropdownSearchField": "SYNCRO TEST DISTRIBUTOR",
+        "policyHolderName": "Test Policy",
+        "effectiveDate": "01-Jan-2025",
+        "countryDropdownSearchField": "United Arab Emirates",
+        "regionDropdownSearchField": "Dubai",
+        "healthAuthDropdownSearchField": "DHA",
+        "programDropdownSearchField": "Fixed Products",
+        "producerDropdownSearchField": "SYNCROTESTPRODUCER",
+        "branchDropdownSearchField": "Dubai",
+        "currencyDropdownSearchField": "UAE Dirham",
+        "issuanceSourceDropdownSearchField": "By TPA",
+        "paymentFreqDropdownSearchField": "Annually",
+        "paymentMethodDropdownSearchField": "Bank Transfer"
+
+    },
+
+    "MemberDetails-003": {
+        
+        "memberDetailsFirstName": "Syncro",
+        "memberDetailsMiddleName": "Automation",
+        "memberDetailsFamilyName": "Test",
+        "memberDetailsDoB": "07-Jan-1993",
+        "memberDetailsIdNumberField": "23421",
+        "memberDetailsIdExpiryDateField": "31-Jan-2028",
+        "memberDetailsNationalIdNumberField": "123-1234-1234567-1",
+        "memberDetailsUidNumberField": "4234243",
+        "memberDetailsPassportNumberField": "342sas",
+        "memberDetailsPreviousInsuranceStartDate": "01-Jan-2024",
+        "memberDetailsExternalIdField": "23111",
+        "memberDetailsGdrfaFileNumber": "123",
+        "memberDetailsDhpoMemberIdField": "12345",
+        "memberDetailsEmailAddressField": "extern.bisht_deepika@allianz.de",
+        "memberDetailsMobileNBRField": "971-23238192"
+
+    },
+
+    "PolicyHolderFullDetails-004": {
+        
+        "phfdEstablishmentCardNumber": "324234",
+        "phfdPolicyHolderEmail": "extern.bisht_deepika@allianz.de",
+        "phfdPolicyHolderMobileNumber": "971-232381955",
+        "phfdPolicyHolderPhoneNumber": "971-23238195",
+        "phfdRepresentativeName": "Test",
+        "phfdSubRegionDropdownSearch": "AL BARSHA FIRST",
+        "phfdPoBoxNumber": "30183",
+        "phfdDetailedAddress": "Additional Test Address"
+        
+
+    },
+
+    
+    "EndorsementDetails-005": {
+        "endorsementDetailsTabText": "Endorsement & Members  Details",
+        "newEndorsementEffectiveDateField": "01-Feb-2025",
+        "addDependentIdNumberField": "1",
+        "addDependentMemberDetailsDoB": "01-Jan-2000",
+        "memberDetailsNationalIdNumberField": "123-1234-1234567-2",
+        "memberDetailsUidNumberField": "4234245",
+        "memberDetailsPassportNumberField": "345sas",
+        "memberDetailsFirstName": "Syncro Updated",
+        "memberDetailsEmailAddressField": "intern.bisht_deepika@allianz.de"
+
+        
+
+    },
+
+    "PolicyHolderBasicDetails-006": {
+        "paymentFreqDropdownSearchField": "Bi-Annually (every 6 mnths)",
+        "paymentMethodDropdownSearchField": "Credit Card"
+
+    },
+
+    "PolicyHolderBasicDetails-007": {
+        "programDropdownSearchField": "Individual DHA",
+        "paymentFreqDropdownSearchField": "Quarterly",
+        "paymentMethodDropdownSearchField": "Direct Debit"
+
+    },
+
+    "MemberDetails-008": {
+        
+        "memberDetailsFirstName": "Syncro",
+        "memberDetailsMiddleName": "Automation",
+        "memberDetailsFamilyName": "Test",
+        "memberDetailsDoB": "07-Jan-1993",
+        "memberDetailsIdNumberField": "23421",
+        "memberDetailsIdExpiryDateField": "31-Jan-2028",
+        "memberDetailsNationalIdNumberField": "123-1234-1234567-2",
+        "memberDetailsUidNumberField": "4234244",
+        "memberDetailsPassportNumberField": "342sab",
+        "memberDetailsPreviousInsuranceStartDate": "01-Jan-2024",
+        "memberDetailsExternalIdField": "23111",
+        "memberDetailsGdrfaFileNumber": "124",
+        "memberDetailsDhpoMemberIdField": "12345",
+        "memberDetailsEmailAddressField": "extern.bisht_deepika@allianz.de",
+        "memberDetailsMobileNBRField": "971-23238192"
+
+    },
+
+    "MemberDetails-009": {
+        
+        "memberDetailsFirstName": "Syncro",
+        "memberDetailsMiddleName": "Automation",
+        "memberDetailsFamilyName": "Test",
+        "memberDetailsDoB": "07-Jan-1993",
+        "memberDetailsIdNumberField": "23421",
+        "memberDetailsIdExpiryDateField": "31-Jan-2028",
+        "memberDetailsNationalIdNumberField": "123-1234-1234567-3",
+        "memberDetailsUidNumberField": "4234245",
+        "memberDetailsPassportNumberField": "342sac",
+        "memberDetailsPreviousInsuranceStartDate": "01-Jan-2024",
+        "memberDetailsExternalIdField": "23111",
+        "memberDetailsGdrfaFileNumber": "125",
+        "memberDetailsDhpoMemberIdField": "12345",
+        "memberDetailsEmailAddressField": "extern.bisht_deepika@allianz.de",
+        "memberDetailsMobileNBRField": "971-23238192"
+
+    },
+
+    "MemberDetails-010": {
+        
+        "memberDetailsFirstName": "Syncro",
+        "memberDetailsMiddleName": "Automation",
+        "memberDetailsFamilyName": "Test",
+        "memberDetailsDoB": "07-Jan-1993",
+        "memberDetailsIdNumberField": "23421",
+        "memberDetailsIdExpiryDateField": "31-Jan-2028",
+        "memberDetailsNationalIdNumberField": "123-1234-1234567-4",
+        "memberDetailsUidNumberField": "4234246",
+        "memberDetailsPassportNumberField": "342sad",
+        "memberDetailsPreviousInsuranceStartDate": "01-Jan-2024",
+        "memberDetailsExternalIdField": "23111",
+        "memberDetailsGdrfaFileNumber": "126",
+        "memberDetailsDhpoMemberIdField": "12345",
+        "memberDetailsEmailAddressField": "extern.bisht_deepika@allianz.de",
+        "memberDetailsMobileNBRField": "971-23238192"
+
+    },
+
+    "PolicyHolderBasicDetails-011": {
+        "paymentFreqDropdownSearchField": "Monthly"
+        
+    },
+
+    "EndorsementDetails-012": {
+        "newEndorsementEffectiveDateField": "01-May-2025"
+
+    },
+
+    "GroupDetails-013": {
+        "numberOfBeneficiaries": "1"
+
+    },
+    "GroupDetails-014": {
+        "numberOfBeneficiaries": "3"
+
+    }
+
+
+
+
+
+    }

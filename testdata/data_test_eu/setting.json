@@ -1,0 +1,174 @@
+{
+    "TC001-ChangePassword": {
+        "pageTitle": "Pulse | Change Password"
+    },
+    "TC002-ChangePassword": {
+        "ChangePasswordTitle": "Change Password",
+        "CreateNewPasswordTitle": "Create New Password"
+    },
+    "TC003-ChangePassword": {
+        "pageTitle": "Pulse | Claims Dashboard"
+    },
+    "TC004-ChangePassword": {
+        "NewPassword": "Wifi@321",
+        "validationError": "Field is required"
+    },
+    "TC005-ChangePassword": {
+        "NewPassword": "Wifi@321",
+        "validationError": "Field is required"
+    },
+    "TC006-ChangePassword": {
+        "NewPassword": "Wifi@321",
+        "validationError": "Field is required"
+    },
+    "TC007-ChangePassword": {
+        "validationError": "Field is required"
+    },
+    "TC008-ChangePassword": {
+        "OldPassword": "Wifi@321",
+        "NewPassword": "Shree@567",
+        "validationError": "Your old password is wrong"
+    },
+    "TC009-ChangePassword": {
+        "OldPassword": "Wifi@321",
+        "NewPassword": "Shree@567",
+        "ConfirmNewPassword": "Shree@567656",
+        "validationError": "Passwords do not match"
+    },
+    "TC010-ChangePassword": {
+        "validationError": "Your new password is Equal to the old one"
+    },
+    "TC011-ChangePassword": {
+        "passwordLenght":"Abc@34",
+        "validationError": "Password must be at least 8 characters long."
+    },
+    "TC012-ChangePassword": {
+        "passwordLenght":"bc@34647675",
+        "validationError": "Must have at least 1 capital letter"
+    },
+    "TC013-ChangePassword": {
+        "passwordLenght":"testTs@34647675",
+        "validationError": "Must not contain 3 consecutive letters from username"
+    },
+    "TC014-ChangePassword": {
+        "passwordLenght":"abcdR34647675",
+        "validationError": "Must have at least 1 symbol"
+    },
+    "TC015-ChangePassword": {
+        "passwordLenght":"ABCD@34647675",
+        "validationError": "Must have at least 1 small letter"
+    },
+    "TC016-ChangePassword": {
+        "passwordLenght":"ABCD@ffdrgdrg",
+        "validationError": "Must have at least 1 number"
+    },
+    "TC002-ManageUser": {
+        "ChangePassword":"Change Password",
+        "ManageUser": "Manage Users",
+        "Inbox":"Inbox",
+        "PostOffice":"Post Office",
+        "Help":"Help",
+        "Profile":"Profile",
+        "Logout":"Logout"
+    },
+    "TC003-ManageUser": {
+        "ManageUser": "Manage Users"
+    },
+    "TC004-ManageUser": {
+        "ManageUser": "Manage Users",
+        "ManageUserTitle":"Manage Users",
+        "ListOfUsers":"List of Users",
+        "RecordsPerPage":"Records per page:"
+    },
+    "TC005-ManageUser": {
+        "pageTitle": "Pulse | Claims Dashboard"
+    },
+    "TC007-ManageUser": {
+        "SearchData": "ahmed_pulse"
+    },
+    "TC008-ManageUser": {
+        "SearchData": "fiseuhsfh",
+        "ValidationMessage":"No Data has been found"
+    },
+    "TC011-ManageUser": {
+        "SearchData": "ahmed_pulse"
+    },
+    "TC012-ManageUser": {
+        "SearchData": "ahmed_pulse"
+    },
+
+    "TC018-ManageUser": {
+        "SearchData": "ahmed_pulse"
+    },
+    "TC024-ManageUser": {
+        "actualMessage":"Must be an email address",
+        "invalidEmail":"abcd@gmail"
+    },
+    "TC030-ManageUser": {
+        "jobPosition":"SDET",
+        "roles":"Healthcare Provider Administrator"
+    },
+    "TC036-ManageUser": {
+        "SearchData": "ahmed_pulse"
+    },
+    "TC037-ManageUser": {
+        "SearchData": "ahmed_pulse"
+    },
+    "TC038-ManageUser": {
+        "SearchData": "456asd",
+        "successMessage":"If your email is correct, then you will receive an email containing the reset password link, Please follow the instructions in the email."
+    },
+    "TC022-ManageUser": {
+        "jobposition": "TestAssociate",
+        "expectederrormessage": "Field is required"
+    },
+    "TC023-ManageUser": {
+        "jobposition": "TestAssociate",
+        "expectederrormessage": "Field is required"
+    },
+    "TC027-ManageUser": {
+        "jobposition": "TestAssociate",
+        "expectederrormessage": "Field is required"
+    },
+    "TC028-ManageUser": {
+        "roles":"Healthcare Provider Administrator",
+        "jobposition": "TestAssociate",
+        "expectedRolesoption": "Healthcare Provider Administrator"
+    },
+    "TC029-ManageUser": {
+        "roles":"Healthcare Provider Administrator",
+        "email": "abcd@gmail.com",
+        "fullname": "abc123",
+        "jobposition": "TestAssociate",
+        "expectedRolesoption": "Healthcare Provider Administrator"
+    },
+    "TC033-ManageUser": {
+        "roles":"Healthcare Provider Administrator",
+        "email": "zz@gmail.com",
+        "fullname": "Vtest",
+        "jobposition": "TestAssociate" 
+    },
+    "TC034-ManageUser": {
+        "roles":"Healthcare Provider Administrator",
+        "email": "zxy@gmail.com",
+        "fullname": "123abc",
+        "jobposition": "TestAssociate" 
+    },
+    "TC035-ManageUser": {
+        "roles":"Healthcare Provider Administrator",
+        "email": "xyz@gmail.com",
+        "fullname": "Vtest",
+        "jobposition": "TestAssociate", 
+        "expectedexistingemailerror": "Email already exists"
+    },
+    "TC039-ManageUser": {
+        "fullname": "ahmed_pulse",
+        "expectedmessage": "If your email is correct, then you will receive an email containing the reset password link, Please follow the instructions in the email."  
+    },
+    "TC017-ManageUser": {
+        "roles":"Healthcare Provider Administrator",
+        "email": "xyz@gmail.com",
+        "fullname": "Vtest",
+        "jobposition": "Senior Tester"
+    }
+}
